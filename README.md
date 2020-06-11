@@ -21,8 +21,9 @@ Number of Failed Play Campaigns - 70
 ### Category: Timing
 
 High Success Rate Launch Time - May to June     
-Low Success Rate Launch Time -  November to December
-![Timing](/Users/hannah/kickstarter-analysis/OutcomeBasedOnLaunchDateModule1.3.png)
+Low Success Rate Launch Time -  November to December  
+
+![Timing](OutcomeBasedOnLaunchDateModule1.3.png)
 
 ### Analysis:
 
