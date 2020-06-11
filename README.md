@@ -10,8 +10,7 @@ Number of Successful Theater Campaigns - 525
 Number of Failed Theater Campaigns - 349
 
 ##### Theater Campaigns: Successfull vs Failed
-![Theater Campains Successfull vs Failed](/Users/hannah/kickstarter-analysis/TheatercampaignsSvF.png)
-
+![Theater Campains Successfull vs Failed](TheaterCampaignsSvF.png)
 ### Category: Plays
 Number of Successful Plays Campaigns - 238  
 Number of Failed Play Campaigns - 70
