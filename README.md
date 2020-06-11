@@ -9,14 +9,14 @@ A look at Category, Subcategory, and Timing
 Number of Successful Theater Campaigns - 525    
 Number of Failed Theater Campaigns - 349
 
-##### Theater Campaigns: Successfull vs Failed
-![Theater Campains Successfull vs Failed](TheaterCampaignsSvF.png)
+##### Theater Campaigns: Successful vs Failed
+![Theater Campains Successful vs Failed](TheaterCampaignsSvF.png)
 ### Category: Plays
 Number of Successful Plays Campaigns - 238  
 Number of Failed Play Campaigns - 70
 
 ##### Plays Campaigns: Successful vs Failed
-![Play Campaigns: Successfull vs Failed](/Users/hannah/kickstarter-analysis/SubcategoryStatistics.png)
+![Play Campaigns: Successful vs Failed](SubcategoryStatistics.png)
 
 ### Category: Timing
 
